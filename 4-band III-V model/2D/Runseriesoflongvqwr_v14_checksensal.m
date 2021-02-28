@@ -1,0 +1,16 @@
+clear all; alvqw = 0.16; alvqwr = 0.01; fullcalcND_VQWR_v14_checksensal;
+clear all; alvqw = 0.16; alvqwr = 0.02; fullcalcND_VQWR_v14_checksensal;
+clear all; alvqw = 0.16; alvqwr = 0.03; fullcalcND_VQWR_v14_checksensal;
+clear all; alvqw = 0.16; alvqwr = 0.04; fullcalcND_VQWR_v14_checksensal;
+clear all; alvqw = 0.10; alvqwr = 0.01; fullcalcND_VQWR_v14_checksensal;
+clear all; alvqw = 0.10; alvqwr = 0.02; fullcalcND_VQWR_v14_checksensal;
+clear all; alvqw = 0.10; alvqwr = 0.03; fullcalcND_VQWR_v14_checksensal;
+clear all; alvqw = 0.10; alvqwr = 0.04; fullcalcND_VQWR_v14_checksensal;
+% clear all; alvqw = 0.12; alvqwr = 0.01; fullcalcND_VQWR_v14_checksensal;
+% clear all; alvqw = 0.12; alvqwr = 0.02; fullcalcND_VQWR_v14_checksensal;
+% clear all; alvqw = 0.12; alvqwr = 0.03; fullcalcND_VQWR_v14_checksensal;
+% clear all; alvqw = 0.12; alvqwr = 0.04; fullcalcND_VQWR_v14_checksensal;
+%clear all; alvqw = 0.11; alvqwr = 0.01; fullcalcND_VQWR_v14_checksensal;
+%clear all; alvqw = 0.11; alvqwr = 0.02; fullcalcND_VQWR_v14_checksensal;
+%clear all; alvqw = 0.11; alvqwr = 0.03; fullcalcND_VQWR_v14_checksensal;
+%clear all; alvqw = 0.11; alvqwr = 0.04; fullcalcND_VQWR_v14_checksensal;

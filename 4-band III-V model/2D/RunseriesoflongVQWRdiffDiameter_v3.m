@@ -1,0 +1,11 @@
+clear all; dd = 10; fullcalcND_VQWR_v3;
+clear all; dd = 12; fullcalcND_VQWR_v3;
+clear all; dd = 14; fullcalcND_VQWR_v3;
+clear all; dd = 16; fullcalcND_VQWR_v3;
+clear all; dd = 18; fullcalcND_VQWR_v3;
+clear all; dd = 20; fullcalcND_VQWR_v3;
+clear all; dd = 22; fullcalcND_VQWR_v3;
+clear all; dd = 24; fullcalcND_VQWR_v3;
+clear all; dd = 26; fullcalcND_VQWR_v3;
+clear all; dd = 28; fullcalcND_VQWR_v3;
+clear all; dd = 30; fullcalcND_VQWR_v3;

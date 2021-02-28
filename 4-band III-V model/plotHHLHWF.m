@@ -1,0 +1,18 @@
+%clear all;
+%load UNEQUAL_7nm_DQD_20dz_Barrier.mat;
+figure;
+% hold on;
+% p1=patch(isosurface(Q.lrpot.x, Q.lrpot.y, Q.lrpot.z, abs(Q.LH.WF(:,:,:,5)).^2,0.00012));
+% isonormals(Q.lrpot.x, Q.lrpot.y, Q.lrpot.z, abs(Q.LH.WF(:,:,:,5)).^2, p1); 
+% daspect([1 1 1]);
+% set(p1, 'FaceColor', [0 0 1], 'EdgeColor', 'none');
+% axis tight;camlight; lighting gouraud;
+% alpha(p1,0.6);
+hold on;
+p2=patch(isosurface(Q.lrpot.x, Q.lrpot.y, Q.lrpot.z, abs(Q.HH.WF(:,:,:,4)).^2,0.00012));
+isonormals(Q.lrpot.x, Q.lrpot.y, Q.lrpot.z, abs(Q.HH.WF(:,:,:,4)).^2, p2); 
+daspect([1 1 1]);
+set(p2, 'FaceColor', [1 0 0], 'EdgeColor', 'none');
+axis tight;camlight; lighting gouraud;
+alpha(p2,0.6);
+box on;

@@ -1,0 +1,12 @@
+c = 2.997925E8;
+e = 1.60219E-19;
+h = 6.62620E-34;
+hbar = h/(2*pi);
+m = 9.10956E-31;
+me = m;
+eV = e;
+meV = eV/1000;
+kB = 1.38062E-23;
+epsilon = 1E7/(4*pi*c^2);
+eps = epsilon;
+mu = 4*pi*1E-7;
