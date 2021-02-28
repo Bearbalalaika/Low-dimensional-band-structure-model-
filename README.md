@@ -1,4 +1,4 @@
-# Low-dimensional-band-structure-model-
+# Low-dimensional band structure model 
 This repo contains band structure modeling tools for III-V compounds, the code based on 4-band approximation k.p theory.
 
 The code was used for the design and modeling of III-V nanostructures, in particular, GaAs/AlGaAs nanostructures in inverted pyramids.
