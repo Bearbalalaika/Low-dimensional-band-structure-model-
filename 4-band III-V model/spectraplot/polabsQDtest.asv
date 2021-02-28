@@ -1,0 +1,6 @@
+clear all;
+load UNEQUAL_QD1_9nm_QD2_0d5nm_DQD_4dz_Barrier_4nm.mat;
+Q = exciton_pert(Q);
+
+figure; stem(1519.2+Elh, mlh, 'bo');
+hold on; stem(1519.2+Ehh, mhh, 'ro');
