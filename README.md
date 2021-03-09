@@ -8,6 +8,7 @@ The core code part was developed by Prof. Fredrik Karlsson.
 To learn more about band structure models please follow the course presentation slides.
 For mode information and examples follow my PhD thesis "PhD thesis Lazarev Mikhail" 
 
-![image](https://user-images.githubusercontent.com/63418497/109432240-5bee9480-7a1b-11eb-8437-da033a990455.png)
+<img width="651" alt="Безымянный1" src="https://user-images.githubusercontent.com/63418497/110474178-6b8f6c80-80f0-11eb-8f89-031bb0244603.png">
+
 
 
